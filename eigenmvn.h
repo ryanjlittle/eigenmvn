@@ -34,7 +34,7 @@
 #define __EIGENMULTIVARIATENORMAL_HPP
 
 #include <Eigen/Dense>
-#include <EigenUnsupported/MPRealSupport>
+#include <eigen3/unsupported/Eigen/MPRealSupport>
 #include <random>
 #include <cryptoTools/Crypto/PRNG.h>
 
